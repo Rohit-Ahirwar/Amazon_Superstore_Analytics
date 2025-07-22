@@ -3,7 +3,7 @@
 This interactive dashboard provides a comprehensive view of Amazon’s global sales, profits, and key performance indicators (KPIs) across different years and regions. It highlights the company’s performance metrics, market segmentation, and geographical reach.
 
 ## Dataset Used
-<a href="Amazon_Superstore_Analytics/Global Superstore Data File.xlsx at main · Rohit-Ahirwar/Amazon_Superstore_Analytics · GitHub">Rohit.Amazon Global Superstore Data </a>
+<a href="https://github.com/Rohit-Ahirwar/Amazon_Superstore_Analytics/blob/main/Global%20Superstore%20Data%20File.xlsx">Rohit.Amazon Global Superstore Data </a>
 
 <a href="https://github.com/Rohit-Ahirwar/Amazon_Superstore_Analytics/blob/main/Amazom%20Dashboard.pbix">Rohit_Amazon_Superstore_Analytics</a>
 
