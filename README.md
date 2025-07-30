@@ -26,7 +26,7 @@ This interactive dashboard provides a comprehensive view of Amazon’s global sa
 
 •	Who are the top five customers contributing to profits, and how can relationships with these customers be strengthened to enhance future sales?
 
-•	Dashboard interaction view <a href="https://github.com/Rohit-Ahirwar/Amazon_Superstore_Analytics/blob/main/Dashboard.png">Dashboard</a>
+•	Dashboard interaction view <a href="https://github.com/Rohit-Ahirwar/Amazon_Superstore_Analytics/blob/main/Dashboard.png">Deshboard</a>
 
 ## Process
 •	Overall Overview: Check annual projections for sales revenue.
@@ -48,7 +48,7 @@ This interactive dashboard provides a comprehensive view of Amazon’s global sa
 •	Regional Strategy Development: Analyze performance on a global map to visualize market reach.
 
 
-## Dashboard
+## Deshboard
 <img width="1248" height="705" alt="Dashboard" src="https://github.com/user-attachments/assets/586c5e94-b4c1-40ad-829d-ae34cdd6056c" />
 
 
